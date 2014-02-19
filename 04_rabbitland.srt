@@ -77,7 +77,7 @@ IQ measuring points, but
 despite that, the Rabbits travel slowly and dutifully, 
 
 20
-00:03:19,968 --> 00:03:22,500
+00:03:20,100 --> 00:03:22,500
 with a clear goal. 
 
 21
@@ -90,11 +90,11 @@ up to the borders of Rabbitland,
 even though beyond them there is nothing
 
 23
-00:03:47,947 --> 00:03:51,000
+00:03:48,100 --> 00:03:51,000
 but only empty areas, inhabited by
 
 24
-00:03:50,892 --> 00:03:53,200
+00:03:51,100 --> 00:03:53,200
 Evil Girls.
 
 25
@@ -106,7 +106,7 @@ They go so far to vote at the elections,
  which in Rabbitland take place once a day,
 
 27
-00:04:04,847 --> 00:04:08,000
+00:04:04,950 --> 00:04:08,000
 because it is a well-ordered democracy.
 
 28
@@ -118,11 +118,11 @@ Remarkably easily,
 one by one,
 
 30
-00:04:17,717 --> 00:04:19,517
+00:04:17,900 --> 00:04:19,517
 they insert the ballots
 
 31
-00:04:19,395 --> 00:04:22,195
+00:04:19,600 --> 00:04:22,195
 into a tall, tall ballot box.
 
 32
@@ -146,7 +146,7 @@ and the evening comes to Rabbitland.
 The Rabbits go to sleep.
 
 37
-00:05:42,070 --> 00:05:44,670
+00:05:42,200 --> 00:05:44,670
 But, having no brain, they can't sleep.
 
 38
@@ -159,7 +159,7 @@ so they watch the election results
 At the borders of Rabbitland, the Evil Girls play 
 
 40
-00:06:07,678 --> 00:06:11,678
+00:06:07,950 --> 00:06:11,678
 and they laugh at another senseless day.
 
 41
@@ -181,3 +181,4 @@ happy
 45
 00:06:48,161 --> 00:06:50,161
 happy 
+
